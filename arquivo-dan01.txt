@@ -1,2 +1,3 @@
 Texto aleatório
 Isso vai dar conflito
+B: Isso vai dar outro conflito
